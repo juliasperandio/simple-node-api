@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/* --exit",
+    "start": "node indexj.s",
     "dev": "nodemon index.js"
   },
   "keywords": [],
